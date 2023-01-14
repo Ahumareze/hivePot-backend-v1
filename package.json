@@ -1,0 +1,22 @@
+{
+  "name": "hivepot-backend",
+  "version": "1.0.0",
+  "description": "the backend for the application hive-pot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahumareze/hivePot-backend.git"
+  },
+  "author": "Fvture",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ahumareze/hivePot-backend/issues"
+  },
+  "homepage": "https://github.com/Ahumareze/hivePot-backend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
